@@ -1,0 +1,16 @@
+{
+  "name": "my-project",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "normalize.css": "^8.0.1",
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "@salesforce-ux/c360-card": "^0.2.2",
+    "@salesforce-ux/c360-styling-hooks": "^0.1.2"
+  }
+}
